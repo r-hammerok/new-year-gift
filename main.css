@@ -67,6 +67,7 @@ img {
 	display: inline-block;
 	position: relative;
 	text-align: initial;
+	color: black;
 }
 
 .page__bg {
@@ -84,7 +85,6 @@ img {
 		background-color: rgba(255, 255, 255, .4);
 	}
 }
-
 
 .wrap-content {
 	position: absolute;
